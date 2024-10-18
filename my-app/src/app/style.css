@@ -1,0 +1,14 @@
+body {
+    --bs-light-rgb: 146,146,145;
+    background: url("https://i.postimg.cc/tgvDSXNW/boardroom-bg.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+
+.navbar {
+    --bs-navbar-brand-color: white;
+}
+
+footer {
+    color: black;
+}
+
